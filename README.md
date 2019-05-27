@@ -3,7 +3,9 @@ Semantic Relation of Basic-Noun-Compounds
 基本复合名词短语语义关系资源库。
 
 
-论文录用在CCL2018，预期在《中文信息学报》发表。因尚未刊出，数据部分预期2018年年底提供下载。
+引用本文:   
+刘鹏远,刘玉洁. 中文基本复合名词短语语义关系体系及知识库构建[J]. 中文信息学报, 2019, 33(4): 20-28.	
+LIU Pengyuan, LIU Yujie. Semantic Relations Hierarchy and Knowledge Base forChinese Basic Noun Compounds. , 2019, 33(4): 20-28.
 
 
 语义关系体系：
